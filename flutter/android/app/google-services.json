@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133282787504",
+    "project_id": "keidaiart-cc9c8",
+    "storage_bucket": "keidaiart-cc9c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133282787504:android:fbdcaa541d410d05468b75",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfbH82F_J5_WrJVAL2H8q_Lcm6SkUkPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
